@@ -1,0 +1,50 @@
+# Portfolio
+# About me
+My main goal is to further improve my testing skills, master the tools related to testing procedures and constantly expand my knowledge of software testing. I believe that I have the necessary predispositions to work as a software tester and my previous experience will help me work in a project team.
+# Tools
+  - [Postman](https://www.postman.com/) - Testing tool for REST API
+  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
+  - Charles Proxy
+  - Github
+  - Windows Screen Recorder
+  - Flourish (https://flourish.studio/)
+  - Lumen5 (https://lumen5.com/dashboard/)
+  - Teams
+  - Slack ID: U0394UHS2HG
+# Tech skills
+  - GIT
+  - SQL
+  - DevTools
+  - SCRUM
+  - Software testing
+  - Creating test cases
+  - Reporting bugs
+  - Finding uniqe CSS Selectors and xPaths
+  - Creating diagrams and decision tables
+# Certificates
+  - [Software Development Academy](https://app.diplomasafe.com/pl-PL/diploma/d74ee9663b8acd222720e1e9e5aa2bfd71f1d5718)
+# Courses
+  - [Software Development Academy](https://sdacademy.pl/)
+# Books
+  - R.Smilgin - Zawód tester
+# Groups on Facebook
+  - Tester oprogramowania - wsparcie na starcie
+  - Testowanie oprogramowania
+# Recommended blogs
+  - testerzy.pl
+  - testuj.pl - Test, Bugs & Rock'n'Roll
+# Webinars
+  - will be added
+# Articles
+  - will be added
+# My test case examples
+  - will be added
+# My bug reports
+  - will be added
+# My examples of diagrams and decision tables
+  - will be added
+# My examples of CSS Selectors and xPaths
+  - will be added
+# My projects
+  - will be added
